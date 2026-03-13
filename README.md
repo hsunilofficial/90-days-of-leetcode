@@ -1,6 +1,7 @@
 # 90 Days of LeetCode 🚀
 
-![Progress](https://img.shields.io/badge/LeetCode-1%2F90%20Solved-blue)
+![Progress](https://img.shields.io/badge/LeetCode-1%2F90%20Day-blue)
+![Progress](https://img.shields.io/badge/LeetCode-4%2F90%20Solved-blue)
 
 Tracking my daily Data Structures & Algorithms practice.
 
