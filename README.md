@@ -1,7 +1,7 @@
 # 90 Days of LeetCode 🚀
 
 ![Progress](https://img.shields.io/badge/LeetCode-2%2F90%20Day-blue)
-![LeetCode](https://img.shields.io/badge/LeetCode-5%20Solved-blue)
+![LeetCode](https://img.shields.io/badge/LeetCode-7%20Solved-blue)
 
 Tracking my daily Data Structures & Algorithms practice.
 
@@ -14,6 +14,8 @@ Tracking my daily Data Structures & Algorithms practice.
 | Day 1 | [Max Consecutive Ones](Day_1/Max%20Consecutive%20Ones.py) | Easy |
 | Day 1 | [Set Mismatch](Day_1/Set%20Mismatch.py) | Easy |
 | Day 2 | [How Many Numbers Are Smaller Than the Current Number](Day_2/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py) | Easy |
+| Day 2 | [Find All Numbers Disappeared in an Array](Day_2/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Easy |
+| Day 2 | [Build an Array With Stack Operations](Day_2/Build%20an%20Array%20With%20Stack%20Operations.py) | Medium |
 
 ## Goals
 
