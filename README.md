@@ -1,7 +1,7 @@
 # 90 Days of LeetCode 🚀
 
-![Progress](https://img.shields.io/badge/LeetCode-2%2F90%20Day-blue)
-![LeetCode](https://img.shields.io/badge/LeetCode-7%20Solved-blue)
+![Progress](https://img.shields.io/badge/LeetCode-3%2F90%20Day-blue)
+![LeetCode](https://img.shields.io/badge/LeetCode-8%20Solved-blue)
 
 Tracking my daily Data Structures & Algorithms practice.
 
@@ -16,6 +16,7 @@ Tracking my daily Data Structures & Algorithms practice.
 | Day 2 | [How Many Numbers Are Smaller Than the Current Number](Day_2/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py) | Easy |
 | Day 2 | [Find All Numbers Disappeared in an Array](Day_2/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Easy |
 | Day 2 | [Build an Array With Stack Operations](Day_2/Build%20an%20Array%20With%20Stack%20Operations.py) | Medium |
+| Day 3 | [Evaluate Reverse Polish Notation](Day_3/Evaluate%20Reverse%20Polish%20Notation.py) | Medium |
 
 ## Goals
 
