@@ -22,7 +22,7 @@ Final Performance:
 Runtime: 0 ms (Beats 100%)
 Memory: 13.49 MB (Beats 98%)
 
-Time Taken: ~20 minutes
+Time Taken: ~30 minutes
 
 Pattern Learned:
 Stack-based expression evaluation (Reverse Polish Notation)
