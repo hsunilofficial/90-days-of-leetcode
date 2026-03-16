@@ -1,7 +1,7 @@
 # 90 Days of LeetCode 🚀
 
-![Progress](https://img.shields.io/badge/LeetCode-3%2F90%20Day-blue)
-![LeetCode](https://img.shields.io/badge/LeetCode-8%20Solved-blue)
+![Progress](https://img.shields.io/badge/LeetCode-5%2F90%20Day-blue)
+![LeetCode](https://img.shields.io/badge/LeetCode-10Solved-blue)
 
 Tracking my daily Data Structures & Algorithms practice.
 
@@ -17,7 +17,8 @@ Tracking my daily Data Structures & Algorithms practice.
 | Day 2 | [Find All Numbers Disappeared in an Array](Day_2/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Easy |
 | Day 2 | [Build an Array With Stack Operations](Day_2/Build%20an%20Array%20With%20Stack%20Operations.py) | Medium |
 | Day 3 | [Evaluate Reverse Polish Notation](Day_3/Evaluate%20Reverse%20Polish%20Notation.py) | Medium |
-
+| Day 4 | [Exclusive Time of Functions](Day_4/Exclusive%20Time%20of%20Functions.py) | Medium |
+| Day 5 | [Final Prices With a Special Discount in a Shop](Day_5/Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py) | Easy |
 ## Goals
 
 - Solve LeetCode problems consistently for 90 days  
